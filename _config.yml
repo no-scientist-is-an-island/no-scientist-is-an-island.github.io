@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: No scientist is an island
+description: Working smarter to share data derivatives
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://no-scientist-is-an-island.github.io/no-scientist-is-an-island
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
