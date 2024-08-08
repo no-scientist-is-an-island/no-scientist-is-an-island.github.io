@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Code Review
-nav_order: 2
-has_children: false
-permalink: /docs/code-review
+parent: Proposed Workflow
+permalink: /docs/workflow/code-review
 ---
 
 # a micro-explainer for code review
