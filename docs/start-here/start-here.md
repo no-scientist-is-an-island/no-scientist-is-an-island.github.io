@@ -3,7 +3,7 @@ layout: default
 title: Start Here 
 nav_order: 2
 permalink: /docs/start-here
-has-children: true
+has_children: true
 ---
 
 # Start here
