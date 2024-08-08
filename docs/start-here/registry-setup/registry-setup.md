@@ -16,9 +16,9 @@ Derived data registries should be flexible enough to work regardless of your pro
 2. Considering adopting a data specification format that is internally consistent across the lab. One option is [Psych-DS](https://docs.google.com/document/d/1u8o5jnWk0Iqp_J06PTu5NjBfVsdoPbBhstht6W0fFp0/edit), an emerging standard (under development) modeled after the [Brain Imaging Data Structure (BIDS)](bids.neuroimaging.io/). Following this data specificaiton standard may foster a more robust science by making it easier for researchers to easily understand one another's project files, including code and analysis.
 
 ## Parts of a derived data registry 
-A derived data registry has three components: a log, code, and data. This can be a folder with three sub-folders. There can be benefits to tracking this folder using git and GitHub, which supports version control. 
+*A derived data registry has three components: a log, code, and data.* This can be a folder with three sub-folders. There can be benefits to tracking this folder using git and GitHub, which supports version control. 
 
-### Derived data log
+### Log
 Here, information about each derived variable (meta-data) is logged. The Psych-DS specification logs this information using a .json file, but a .csv file, or other tracking systems (e.g., Google spreadsheets) can also work. 
 
 In accordance with Psych-DS, we suggest recording some or all of the following information for each variable: name, description, value, identifier, minValue, maxValue, levels, levelsOrdered, na, naValue, alternateName, privacy (see Section 6.1.1 of [Psych-DS](https://docs.google.com/document/d/1u8o5jnWk0Iqp\_J06PTu5NjBfVsdoPbBhstht6W0fFp0/edit) for more details)
@@ -39,10 +39,10 @@ Additional meta-data that we recommend specifically for derived variables is des
 | **inputMissingness** | String     | Description of how missingness on input variables was handled. `“inputMissingness”: “calculated for participants with complete data on inputVars, otherwise NA”` |
 | **n**           | Integer         | How many participants this variable exists for. `“n: 249”` |
 
-## Derived data code
+## Code
 Code uploaded to this folder should produce a single variable or one set of highly related variables that undergo a similar transformation process. The file name should contain the name of the variable or variable set. For more information about developing this code, see (ADD LINK).
 
-## Derived data
+## Data
 This folder is populated with tabular data files for each variable or set of variables according to agreed-upon file format (e.g.,  .csv or .rdata). File names should include the name of the variable or variable set. Within each file, the first column(s) should included with any identifiers (id, session, etc). 
 
 The contents of this folder should only be shared with those that have permissions to view the data. If you are using git for version control and the data cannot be uploaded, consider adding this folder to your ().gitignore file)[https://git-scm.com/docs/gitignore/en]
