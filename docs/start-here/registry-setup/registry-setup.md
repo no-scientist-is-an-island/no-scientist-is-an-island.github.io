@@ -23,7 +23,7 @@ Here, information about each derived variable (meta-data) is logged. The Psych-D
 
 In accordance with Psych-DS, we suggest recording some or all of the following information for each variable: name, description, value, identifier, minValue, maxValue, levels, levelsOrdered, na, naValue, alternateName, privacy (see Section 6.1.1 of [Psych-DS](https://docs.google.com/document/d/1u8o5jnWk0Iqp\_J06PTu5NjBfVsdoPbBhstht6W0fFp0/edit) for more details)
 
-Additional meta-data that we recommend specifically for derived variables is described below:  Additional meta-data that we recommend specifically for derived variables is described below:  
+Additional meta-data that we recommend specifically for derived variables is described below:  
 
 | Name            | Schema.org type | Definition |
 | --------------- | --------------- | ---------- |
