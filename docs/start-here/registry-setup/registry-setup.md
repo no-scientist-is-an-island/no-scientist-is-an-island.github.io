@@ -2,7 +2,7 @@
 layout: default
 title: Setting up a derived data registry
 parent: Start here 
-nav_order:2.1
+nav_order: 2.1
 permalink: /docs/start-here/registry-setup
 ---
 
