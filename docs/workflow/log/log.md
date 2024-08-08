@@ -2,7 +2,7 @@
 layout: default
 title: Logging Your Progress
 parent: Proposed Workflow
-nav_order: 1
+nav_order: 4
 permalink: /docs/workflow/log
 ---
 
