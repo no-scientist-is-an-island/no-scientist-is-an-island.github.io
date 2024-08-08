@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Logging Your Progress
+title: Checking the registry
 parent: Proposed Workflow
 nav_order: 2.1
 permalink: /docs/workflow/log
 ---
 
-# How to log your progress
+## Getting started
+You've thought of a data derivative--now what? The first step is to check the derived data registry, specifically the log, to see if someone else has already worked on this derivative, and if so, where are they in the [workflow](docs/workflow/workflow.md). Critically, completing this first step avoids unnecessary duplication of effort. If the derivative already exists, check to see if it works for your use or if you need to adapt it. If it doesn't exist, add it to the log as `logStatus`: `under development` and create the derivative! 
 
-An important interaction with the derived data registry is to regularly update your derivative's status. This status (`logStatus` field in the registry) communicates to your group where you are in the workflow:
+## logStatus
+
+An key attribute in the registry log is the `logStatus`, and it is important to regularly update your derivative's logStatus. This communicates to your group where you are in the workflow:
 
 * <span style="background-color: #F88379">under development</span>: you've conceptualized the data derivative and are working on developing and testing the script to generate it
 * <span style="background-color: #fcea50">under review</span>: the derivative is accurate and you're able to reproduce it--now it's time for code review!
