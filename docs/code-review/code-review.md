@@ -1,3 +1,11 @@
+---
+layout: default
+title: Code Review
+nav_order: 1
+has_children: false
+permalink: /docs/code-review
+---
+
 # a micro-explainer for code review
 software developers check their code a lot; scientific data analysts and programmers can, too\!
 
