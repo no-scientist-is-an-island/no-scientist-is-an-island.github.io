@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Key Terms 
-nav_order: 1.5
-permalink: /docs/FAQ
+title: Start Here 
+nav_order: 2
+permalink: /docs/start-here
 ---
 
 # Start here
