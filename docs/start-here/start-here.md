@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start Here 
+title: Start here 
 nav_order: 2
 permalink: /docs/start-here
 has_children: true
