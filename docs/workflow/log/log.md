@@ -10,7 +10,7 @@ permalink: /docs/workflow/log
 
 An important interaction with the derived data registry is to regularly update your derivative's status. This status (`logStatus` field in the registry) communicates to your group where you are in the workflow:
 
-* <font color="#F88379">under development</font>
-* <font color="#fcea50">under review</font>
-* <font color="#24db2f">registered</font>
-* <font color="#74797b">abandoned</font>
+* <span style="background-color: #F88379">under development</span>: 
+* <span style="background-color: #fcea50">under review</span>
+* <span style="background-color: #24db2f">registered</span>
+* <span style="background-color: #74797b">abandoned</span>
