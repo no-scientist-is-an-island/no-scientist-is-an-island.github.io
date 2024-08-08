@@ -11,7 +11,7 @@ You've thought of a data derivative--now what? The first step is to check the de
 
 ## logStatus
 
-An key attribute in the registry log is the `logStatus`, and it is important to regularly update your derivative's logStatus. This communicates to your group where you are in the workflow:
+An key attribute in the registry log is the `logStatus`. This communicates to your group where you are in the workflow:
 
 * <span style="background-color: #F88379">under development</span>: you've conceptualized the data derivative and are working on developing and testing the script to generate it
 * <span style="background-color: #fcea50">under review</span>: the derivative is accurate and you're able to reproduce it--now it's time for code review!
