@@ -7,7 +7,7 @@ permalink: /docs/workflow/log
 ---
 
 ## Getting started
-You've thought of a data derivative--now what? The first step is to check the derived data registry, specifically the log, to see if someone else has already worked on this derivative, and if so, where are they in the [workflow](docs/workflow/workflow.md). Critically, completing this first step avoids unnecessary duplication of effort. If the derivative already exists, check to see if it works for your use or if you need to adapt it. If it doesn't exist, add it to the log as `logStatus`: `under development` and create the derivative! 
+You've thought of a data derivative--now what? The first step is to check the derived data registry, specifically the log, to see if someone else has already worked on this derivative, and if so, where are they in the [workflow](docs/workflow/workflow.md). Critically, completing this first step avoids unnecessary duplication of effort. If the derivative already exists, check to see if it works for your use or if you need to adapt it. If it doesn't exist, add it to the log as `logStatus`: `under development` and [create the derivative](docs/workflow/code-devo)! 
 
 ## logStatus
 
