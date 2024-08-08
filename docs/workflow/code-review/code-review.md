@@ -2,7 +2,7 @@
 layout: default
 title: Code Review
 parent: Proposed Workflow
-nav_order: 5
+nav_order: 2.2
 permalink: /docs/workflow/code-review
 ---
 
