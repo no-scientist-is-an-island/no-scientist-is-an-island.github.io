@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Proposed Workflow
-nav_order: 3
-has_children: false
+nav_order: 2
+has_children: true
 permalink: /docs/workflow
 ---
 
