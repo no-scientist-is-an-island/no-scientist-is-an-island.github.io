@@ -13,4 +13,4 @@ An important interaction with the derived data registry is to regularly update y
 * <span style="background-color: #F88379">under development</span>: 
 * <span style="background-color: #fcea50">under review</span>
 * <span style="background-color: #24db2f">registered</span>
-* <span style="background-color: #74797b">abandoned</span>
+* <span style="background-color: #a1a4a5">abandoned</span>
