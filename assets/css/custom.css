@@ -1,8 +1,8 @@
 /* Custom CSS to change the sidebar width */
 .side-bar {
-  width: 300px; /* Change this value to your desired width */
+  width: 350px; /* Change this value to your desired width */
 }
 
 .main-content {
-  margin-left: 300px; /* This should match the width of the sidebar */
+  margin-left: 350px; /* This should match the width of the sidebar */
 }
