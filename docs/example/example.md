@@ -6,7 +6,7 @@ permalink: /docs/example
 ---
 
 # Example
-This [**derived data registry**](https://github.com/no-scientist-is-an-island/example-derived-data-registry) contains a log, code, and data. 
+This is an example of a [**derived data registry**](https://github.com/no-scientist-is-an-island/example-derived-data-registry) that contains a log, code, and data. 
 
 <img src='../../files/example-ddr-repo-map.jpg' width='40%' >
 
@@ -23,4 +23,4 @@ And some variables that have been registered:
 3. The [data](https://github.com/no-scientist-is-an-island/example-derived-data-registry/tree/main/data) contains a single .csv file containing personality derivatives from the Big Five Inventory and shares the same name as the code. When other variables types are registered, their data ought to be uploaded to in separate files, as well. Take care to ensure that only those with permission to access the data can do so.
 
 #### References
-To create this example, we adpated code from the [**Psych-DS example BFI dataset**](https://github.com/psych-ds/example-datasets). 
+To create this example, we adpated code from the [Psych-DS example BFI dataset](https://github.com/psych-ds/example-datasets). 
