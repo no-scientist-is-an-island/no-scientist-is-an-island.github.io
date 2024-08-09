@@ -9,4 +9,4 @@ permalink: /docs/workflow/submission
 
 # Registry submission
 
-<img src='../../files/submit.png' width='75%' > 
+We've reached the end of the workflow! <img style="float:right" src='../../files/submit.png' width='85%' > 
