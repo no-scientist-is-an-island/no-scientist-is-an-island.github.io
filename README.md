@@ -1,6 +1,6 @@
 # no-scientist-is-an-island
 
-This is the GitHub repository for [no-scientist-is-an-island.github.io](https://no-scientist-is-an-island.github.io/). We used the [Just the Docs] theme to create a [Jekyll] site that is published on [GitHub Pages];
+This is the GitHub repository for [no-scientist-is-an-island.github.io](https://no-scientist-is-an-island.github.io/). We used the [Just the Docs] theme to create a [Jekyll] site that is published on [GitHub Pages].
 
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
