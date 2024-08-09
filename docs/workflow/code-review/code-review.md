@@ -9,7 +9,7 @@ permalink: /docs/workflow/code-review
 # Code review
 software developers check their code a lot; scientific data analysts and programmers can, too\!
 
-<img src='../../files/review.png' width='50%' > 
+<img src='../../files/review.png' width='75%' > 
 
 ## Process
 * The code author documents the context and aims to write efficient, well-commented code that follows agreed-upon lab specifications to the best of their ability.   
@@ -26,20 +26,7 @@ software developers check their code a lot; scientific data analysts and program
 * A need to re-create environments may come up. (Link to resources: )  
 * Culture matters. Sharing code can be vulnerable but will reduce errors and improve reproducibility. It is easier in a culture where perfection is not the expectation, but rather kindness.
 
-## Example checklists
-
-### For a code author before code review
-- [ ] Derived variables have been logged  
-- [ ] Purpose of the code is stated  
-- [ ] The data inputs and outputs are stated   
-- [ ] The code itself employs formats we have agreed to use (PEP8 for Python) (if none, is it internally consistent?)  
-- [ ] The folder, file, variable names, and outputs match formats we have agreed to use, if any (if none, are they internally consistent?)  
-- [ ] The code is modular, meaning that it derives a single variable or a small set of related variables; code for diverse variable types should be in separate scripts   
-- [ ] The use of hard-coded paths is minimized  
-- [ ] The code is efficiently commented  
-- [ ] After clearing and restarting my environment, I can reproduce the code on my own  
-- [ ] Provides output for comparison  
-- [ ] Raw data files are not overwritten or altered in any way
+## Example checklist
 
 ### For a code reviewer
 - [ ] There is a clear top-level description of the script’s purpose  

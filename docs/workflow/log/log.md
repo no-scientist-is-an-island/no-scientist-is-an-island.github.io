@@ -18,4 +18,4 @@ An key attribute in the registry log is the `logStatus`. This communicates to yo
 * <span style="background-color: #24db2f">registered</span>: the derivative passed code review and is fully described in the derived data registry
 * <span style="background-color: #d4d6d6">abandoned</span>: you have ceased working on this derivative and an explanation is included in the `description` field
 
-<img src='../../files/check.png' width='50%' > 
+<img src='../../files/check.png' width='75%' > 
