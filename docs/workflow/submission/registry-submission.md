@@ -8,3 +8,5 @@ permalink: /docs/workflow/submission
 ---
 
 # Registry submission
+
+<img src='../../files/submit.png' width='50%' > 

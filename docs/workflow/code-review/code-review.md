@@ -9,6 +9,8 @@ permalink: /docs/workflow/code-review
 # Code review
 software developers check their code a lot; scientific data analysts and programmers can, too\!
 
+<img src='../../files/review.png' width='50%' > 
+
 ## Process
 * The code author documents the context and aims to write efficient, well-commented code that follows agreed-upon lab specifications to the best of their ability.   
 * The code reviewer is ideally done with someone who did not write the code who  

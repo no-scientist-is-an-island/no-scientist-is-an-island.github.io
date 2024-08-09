@@ -11,6 +11,8 @@ Two key principles:
 1. **Never modify raw/original data files.** Always read raw data in to your environment and write to a new file. Be a good data steward, and save it somewhere safe that is accessible to others (as appropriate--ask your PI) and is regularly backed-up (i.e., not on your local drive).
 2. **Never create a derivative manually (i.e., doing it "by hand")--this limits reproducibility and increases the risk of human error.** We get it--when trying to do something new, it may feel like you could accomplish it much faster by hand then by figuring out how to script it. **But**, we promise that the upfront cost to learn how to create a derivative via a script is worth it. First, you'll learn a new and likely transferable skill. Second, you can be confident that the transformation/alteration is applied accurately to all of the observations. Third, you'll create a script that you could apply to another, similar dataset later.
 
+<img src='../../files/development.png' width='50%' > 
+
 ## What if I want to develop several, related derivatives?
 If you're thinking of creating several, closely related derivatives, we think it makes sense to include the code to develop all of them in the same script. But they should be entered into the log as separate derivatives.
 
