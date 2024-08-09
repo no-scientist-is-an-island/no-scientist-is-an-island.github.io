@@ -10,7 +10,7 @@ This is an example of a [**derived data registry**](https://github.com/no-scient
 
 <img src='../../files/example-ddr-repo-map.jpg' width='40%' >
 
-1. The [log](https://github.com/no-scientist-is-an-island/example-derived-data-registry/blob/main/log/derived_data_log.json) is a .json file containing dataset and variable meta-data. Its format adapts some aspects of the Psych-DS specification.
+1. The [log](https://github.com/no-scientist-is-an-island/example-derived-data-registry/blob/main/log/derived_data_log.json) is a .json file containing dataset and variable meta-data. Its format adapts some aspects of the Psych-DS specification. If researchers don't want to use a .json file, this could also be formatted as a .csv or other form of spreadsheet.
 
 It includes a variable under development:  
 <img src='../../files/log_metadata_under_dev.jpg' width='80%' >
