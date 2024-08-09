@@ -5,6 +5,9 @@ nav_order: 1
 ---
 
 # No scientist is an island: Working smarter to share data derivatives
+
+<img src='../../files/dataderivative_flowchart.png' width='100%' >
+
 In collaborative scientific research involving human subjects, the same datasets are often used by multiple researchers. Researchers frequently  transform variables for their models or analyse, creating what are known as **data derivatives**. Tracking and sharing these derivatives can be valuable not only to the original research team, but also to collaborators and the broader scientific community.
 
 Our work aims to help researchers produce accurate and reproducible data derivatives in an accessible manner. When data derivatives lack accuracy, reproducibility, and accessibility, researchers may end up duplicating efforts and coding errors may persist. We propose a workflows, best practices, and an example/template to help research teams manage their data derivatives using a **derived data registry**.
