@@ -12,6 +12,6 @@ This is an example of [**a project repository**](https://github.com/no-scientist
 
 ( maybe add a screenshot? )
 
-Two variables derived from this dataset were logged and had their data and code transfererd to the [**derived data registry*](https://github.com/no-scientist-is-an-island/example-derived-data-registry). This derived data registry makes it easier for other researchers and users to find and work with the specific variables they need.
+Two variables derived from this dataset were logged and had their data and code transfererd to the [**derived data registry**](https://github.com/no-scientist-is-an-island/example-derived-data-registry). This derived data registry makes it easier for other researchers and users to find and work with the specific variables they need.
 
 ( screen shot #2? )
