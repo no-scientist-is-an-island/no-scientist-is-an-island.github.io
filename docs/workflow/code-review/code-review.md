@@ -9,7 +9,7 @@ permalink: /docs/workflow/code-review
 # Code review
 software developers check their code a lot; scientific data analysts and programmers can, too\!
 
-<img style="float:right" src='../../files/review.png' width='85%' > 
+<img style="center" src='../../files/review.png' width='85%' > 
 
 ## Process
 * The code author documents the context and aims to write efficient, well-commented code that follows agreed-upon lab specifications to the best of their ability.   
