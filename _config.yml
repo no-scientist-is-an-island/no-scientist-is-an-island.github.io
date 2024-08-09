@@ -1,6 +1,9 @@
 title: No scientist is an island
 description: Working smarter to share data derivatives
-theme: just-the-docs
+theme: 
+  name: just-the-docs
+  custom_css:
+    - "assets/css/custom.css"
 
 url: https://no-scientist-is-an-island.github.io/no-scientist-is-an-island
 
