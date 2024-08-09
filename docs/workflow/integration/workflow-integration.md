@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Implementation
-parent: Proposed Workflow
-nav_order: 2.5
+parent: Proposed workflow
+nav_order: 3.5
 permalink: /docs/workflow/integration
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Checking the registry
-parent: Proposed Workflow
-nav_order: 2.1
+parent: Proposed workflow
+nav_order: 3.1
 permalink: /docs/workflow/log
 ---
 

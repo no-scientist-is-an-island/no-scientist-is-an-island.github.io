@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Developing a derivative
-parent: Proposed Workflow
-nav_order: 2.2
+parent: Proposed workflow
+nav_order: 3.2
 permalink: /docs/workflow/code-devo
 ---
 
