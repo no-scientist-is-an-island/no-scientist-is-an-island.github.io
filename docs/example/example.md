@@ -10,8 +10,8 @@ This example highlights how a derived data repository can facilitate easier acce
 
 This is an example of [**a project repository**](https://github.com/no-scientist-is-an-island/example-dataset/) formatted in Psych-DS and shared by the developers of that specification. 
 
-<img src='../../files/example-bfi-dataset-repo-map.jpg' width='100%' >
+<img src='../../files/example-bfi-dataset-repo-map.jpg' width='40%' >
 
 Two variables derived from this dataset were logged and had their data and code transfererd to the [**derived data registry**](https://github.com/no-scientist-is-an-island/example-derived-data-registry). This derived data registry makes it easier for other researchers and users to find and work with the specific variables they need.
 
-<img src='../../files/example-ddr-repo-map.jpg' width='100%' >
+<img src='../../files/example-ddr-repo-map.jpg' width='40%' >
