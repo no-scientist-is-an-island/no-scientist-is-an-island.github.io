@@ -42,9 +42,9 @@ Additional meta-data that we recommend specifically for derived variables is des
 | **n**           | Integer         | How many participants this variable exists for. `“n: 249”` |
 
 ## Code
-Code uploaded to this folder should produce a single variable or one set of highly related variables that undergo a similar transformation process. The file name should contain the name of the variable or variable set. For more information about developing this code, see (ADD LINK).
+Code uploaded to this folder should produce a single variable or one set of highly related variables that undergo a similar transformation process. The file name should contain the name of the variable or variable set. Click here for more information about (developing this code)[https://no-scientist-is-an-island.github.io/docs/workflow/code-devo].
 
 ## Data
 This folder is populated with tabular data files for each variable or set of variables according to agreed-upon file format (e.g.,  .csv or .rdata). File names should include the name of the variable or variable set. Within each file, the first column(s) should included with any identifiers (id, session, etc). 
 
-The contents of this folder should only be shared with those that have permissions to view the data. If you are using git for version control and the data cannot be uploaded, consider adding this folder to your ().gitignore file)[https://git-scm.com/docs/gitignore/en]
+The contents of this folder should only be shared with those that have permissions to view the data. If you are using git for version control and the data cannot be uploaded, consider adding this folder to your (.gitignore file)[https://git-scm.com/docs/gitignore/en]
