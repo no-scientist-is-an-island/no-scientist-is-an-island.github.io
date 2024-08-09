@@ -6,3 +6,13 @@ div.side-bar {
 div.main-content {
   margin-left: 400px !important; /* This should match the width of the sidebar */
 }
+
+@media (max-width: 768px) {
+  div.side-bar {
+    width: 100% !important; /* Full width on smaller screens */
+  }
+
+  div.main-content {
+    margin-left: 0 !important; /* No margin on smaller screens */
+  }
+}
