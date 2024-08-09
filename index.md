@@ -6,13 +6,13 @@ nav_order: 1
 
 # No scientist is an island: Working smarter to share data derivatives
 
-<img src='../../files/islands.png' width='80%' >
+<img src='../../files/islands.png' width='90%' >
 
 In collaborative scientific research involving human subjects, the same datasets are often used by multiple researchers. Researchers frequently  transform variables for their models or analyse, creating what are known as **data derivatives**. Tracking and sharing these derivatives can be valuable not only to the original research team, but also to collaborators and the broader scientific community.
 
 Our work aims to help researchers produce accurate and reproducible data derivatives in an accessible manner. When data derivatives lack accuracy, reproducibility, and accessibility, researchers may end up duplicating efforts and coding errors may persist. We propose a workflows, best practices, and an example/template to help research teams manage their data derivatives using a **derived data registry**.
 
-This work was developed at [Neurohackademy 2024](https://neurohackademy.org/) by researchers in psychology and neuroscience for use with human subjects data, but may be adapted for use in other contexts. If you have questions or feedback, please reach out to us on [GitHub](https://github.com/no-scientist-is-an-island).
+This work was developed at [Neurohackademy 2024](https://neurohackademy.org/) by researchers in psychology and neuroscience for use with human subjects data, but may be adapted for use in other contexts. If you have questions or feedback, please reach out to us by creating an issue on[GitHub](https://github.com/no-scientist-is-an-island).
 
 ## Why is this important? 
 In common lab structures, when it comes to data derivatives efforts may be duplicated, data and knowledge lost when people leave, code isn’t necessarily reproducible by others or may be left unchecked, and sharing code and variables can be a massive effort that requires intensive code cleaning. 
@@ -28,3 +28,7 @@ Derived data registries were designed for a group of researchers working togethe
 The flexible structure of a derived data registry means that it can be created for a dataset, project team, lab, or even for collaboration teams across sites. Creating derived data registries at larger scales can help disseminate code for derived variables across datasets, but requires greater coordination to maintain. 
 
 Co-curation of derived data registries can help build a culture of collaboration, mutual accountability, and coordination. They may be especially helpful for research groups looking for more systematic ways to collaborate and share/review code.
+
+
+#### Image reference
+This image was created with the help of AI on Canva.
