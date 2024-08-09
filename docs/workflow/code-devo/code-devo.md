@@ -54,7 +54,7 @@ For a code author before code review, see if you've completed these steps:
 - [ ] Provides output for comparison  
 - [ ] Raw data files are not overwritten or altered in any way
 
-#### More resources to check out:
+#### Resources
 * a book about names: [Naming Things](https://www.namingthings.co/)
 * a book about writing clean code: [The Art of Readable Code](https://mcusoft.wordpress.com/wp-content/uploads/2015/04/the-art-of-readable-code.pdf)
 * a book about how to do data science in R: [R for Data Science, 2nd edition](https://r4ds.hadley.nz/)
