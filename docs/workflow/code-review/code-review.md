@@ -62,10 +62,10 @@ software developers check their code a lot; scientific data analysts and program
     * Memory usage is optimized
     * Algorithms and data structures are efficient
 
-#### After code review:
+#### After code review
 - [ ] Code comply with coding standards and guidelines (Derived data) —> some formatting documentation for after code review
 
-#### Resources:   
+### Resources  
 **Rokem, A. (2024). Ten simple rules for scientific code review.**  
 **Link:** Manuscript in press, direct link tbd. In the meantime, see [https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html](https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html)
 
