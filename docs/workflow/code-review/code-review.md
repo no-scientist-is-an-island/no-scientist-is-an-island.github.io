@@ -29,17 +29,41 @@ software developers check their code a lot; scientific data analysts and program
 ## Example checklist
 
 ### For a code reviewer
-- [ ] There is a clear top-level description of the script’s purpose  
-- [ ] The code is modular  
-- [ ] Running the code generates the identical output (if not, what changes are needed?)  
-- [ ] Line by line, the code is logical and accurate  
-- [ ] The overall script is organized sensibly  
-- [ ] The code is formatted in agreed-upon ways (or is internally consistent)  
-- [ ] The folder, file, variable names, and outputs are formatted in agreed-upon ways (or are internally consistent) and are names are sufficiently informative  
-- [ ] The code is easy to follow   
-- [ ] The script is included in the GitHub repository (if using)  
-- [ ] Distinguish “must haves”/required changes  vs “nice to haves”/suggested changes  
-- [ ] Raw data files are not overwritten or altered in any way  
+- [ ] Functionality
+    *Running the code generates the identical output
+    * Code implements the intended functionality
+- [ ] Readability
+    * The code is easy to follow
+    * The overall script is organized sensibly
+    * Line by line, the code is logical and accurate
+    * The code is formatted in agreed-upon ways (or is internally consistent).
+    * The folder, file, variable names, and outputs are formatted in agreed-upon ways (or are internally consistent) and are names are sufficiently informative
+- [ ] Code structure and design
+    * The code is modular
+    * There are no repetitive blocks of code
+    * Functions and classes are reasonable size and complexity
+- [ ] Error handling
+    * Code includes proper potential error handling mechanisms
+    * Logging is implemented for debugging and troubleshooting purposes
+- [ ] Security
+    * The authentication and authorization mechanisms should implement correctly
+- [ ] Code reuse
+    * Raw data files are not overwritten or altered in any way
+    * Dependencies are managed correctly and up-to-date
+- [ ] Testing and coverage
+    - There are some unit test to check specific functionality
+    - Do the tests consider potential edge cases?
+- [ ] Documents
+    * The script is included in the GitHub repository (if using)
+    * There is a clear top-level description of the script’s purpose
+    * Functions, methods, and classes have descriptive comments or strings
+- [ ] Performance
+    * Performance is efficient
+    * Memory usage is optimized
+    * Algorithms and data structures are efficient
+
+#### After code review:
+- [ ] Code comply with coding standards and guidelines (Derived data) —> some formatting documentation for after code review
 
 #### Resources:   
 **Rokem, A. (2024). Ten simple rules for scientific code review.**  
@@ -47,3 +71,6 @@ software developers check their code a lot; scientific data analysts and program
 
 **Pew Research Center Process**  
 **Link:** https://www.pewresearch.org/decoded/2023/04/05/how-we-review-code-at-pew-research-center/
+
+**Swimm Team**
+**Link:** https://swimm.io/learn/code-reviews/ultimate-10-step-code-review-checklist#Functionality
