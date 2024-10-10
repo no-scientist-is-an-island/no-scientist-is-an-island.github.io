@@ -67,7 +67,7 @@ software developers check their code a lot; scientific data analysts and program
 
 ### Resources  
 **Rokem, A. (2024). Ten simple rules for scientific code review.**  
-**Link:** Manuscript in press, direct link tbd. In the meantime, see [https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html](https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html)
+**Link:** https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012375
 
 **Pew Research Center Process**  
 **Link:** https://www.pewresearch.org/decoded/2023/04/05/how-we-review-code-at-pew-research-center/
